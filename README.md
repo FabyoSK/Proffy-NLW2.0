@@ -3,7 +3,7 @@
 Projeto desenvolvido durante a Next Level Week 2, da <a target="_blank" href="https://rocketseat.com.br">Rocketseat</a>
 
 ## Sobre o Projeto
-
+Plataforma de estudos online, com objetivo de conectar alunos e professores para aulas on-line.
 O Proffy possui um versão Web e uma versão Mobile.
 
 
