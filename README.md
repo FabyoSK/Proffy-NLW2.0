@@ -1,4 +1,4 @@
-# # Proffy | Sua Plataforma de estudos Online
+# Proffy | Sua Plataforma de estudos Online
 
 Projeto desenvolvido durante a Next Level Week 2, da <a target="_blank" href="https://rocketseat.com.br">Rocketseat</a>
 
